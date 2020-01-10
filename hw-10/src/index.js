@@ -1,3 +1,5 @@
+import './styles.css';
+
 import data from './json/menu.json';
 import menuTemplate from './templates/post-menu-items.hbs';
 
